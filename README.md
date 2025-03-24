@@ -74,5 +74,5 @@ This project is open-source and available under the **MIT License**.
 Feel free to fork this repository, create a feature branch, and submit a pull request!
 
 ## 📩 Contact
-For any issues, reach out via [GitHub Issues](https://github.com/yourusername/langchain-sql-chatbot/issues).
+For any issues, reach out via [GitHub Issues](divyagoyalbg@gmail.com).
 
