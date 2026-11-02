@@ -2,6 +2,5 @@ streamlit
 langchain
 langchain-groq
 sqlalchemy
-sqlite3
 mysql-connector-python
 pymysql
